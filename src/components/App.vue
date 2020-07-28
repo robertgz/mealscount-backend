@@ -53,6 +53,11 @@
               </li>
               <li>
                 <a
+                  href="https://www.youtube.com/watch?v=gJJA5-P0yAM"
+                >Tools for Community Funding Webinar</a>
+              </li>
+              <li>
+                <a
                   href="https://github.com/opensandiego/mealscount-backend/blob/validate/CONTRIBUTING.md"
                 >Meals Count Contributing Guide</a>
               </li>
